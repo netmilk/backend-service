@@ -1,0 +1,10 @@
+{
+  "name": "backend-service",
+  "type": "npm",
+  "env": {
+    "BACKEND_API_DESIGN_API_HOST": "backend.apilandscape.org"
+  },
+  "alias": [
+    "backend.apilandscape.org"
+  ]
+}
